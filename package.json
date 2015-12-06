@@ -1,0 +1,19 @@
+{
+  "name": "module-log",
+  "description": "Like console.{log,error}, but prepends messages with path to the caller module.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test/run.sh"
+  },
+  "homepage": "https://github.com/n2liquid/module-log#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n2liquid/module-log.git"
+  },
+  "author": "Guilherme Prá Vieira (super.driver.512@gmail.com)",
+  "license": "AGPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/n2liquid/module-log/issues"
+  }
+}
