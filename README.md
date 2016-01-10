@@ -3,6 +3,10 @@
 `module.{log,error}` work like `console.{log,error}`, but prepend messages with paths
 to the context modules relative to the program's main module path.
 
+## Installation
+
+    $ npm install --save n2liquid/node-module-log
+
 ## Example usage
 
 Consider:
@@ -26,10 +30,6 @@ If `sample/index.js` is the main module, the output will look like this:
     index.js: This is a test log message.
 
 And so on.
-
-## Installation
-
-    $ npm install --save n2liquid/node-module-log
 
 ## License
 
