@@ -6,14 +6,14 @@
   "scripts": {
     "test": "./test/run.sh"
   },
-  "homepage": "https://github.com/n2liquid/module-log#readme",
+  "homepage": "https://github.com/n2liquid/node-module-log#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/n2liquid/module-log.git"
+    "url": "git+https://github.com/n2liquid/node-module-log.git"
   },
   "author": "Guilherme Prá Vieira (super.driver.512@gmail.com)",
   "license": "AGPL-3.0+",
   "bugs": {
-    "url": "https://github.com/n2liquid/module-log/issues"
+    "url": "https://github.com/n2liquid/node-module-log/issues"
   }
 }

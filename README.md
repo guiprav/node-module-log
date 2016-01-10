@@ -29,7 +29,7 @@ And so on.
 
 ## Installation
 
-    $ npm install --save n2liquid/module-log
+    $ npm install --save n2liquid/node-module-log
 
 ## License
 
